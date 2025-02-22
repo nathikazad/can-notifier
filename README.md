@@ -8,9 +8,6 @@ If you want to run the dyno locally, make sure to install heroku and then
 <code>heroku local</code>
 You need to have the correct .env file with the following keys
 <ul>
-  <li>TWILIO_PHONE_NUMBER</li>
-  <li>TWILIO_AUTH_TOKEN</li>
-  <li>TWILIO_ACCOUNT_SID</li>
   <li>SENDGRID_FROM_EMAIL</li>
   <li>SENDGRID_API_KEY</li>
   <li>HIVEMQ_HOST</li>
